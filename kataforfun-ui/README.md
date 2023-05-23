@@ -1,3 +1,6 @@
+# Kata 
+Developped the solution for the kata. Backend with Junit tests. Frontend with Karma unit tests.
+
 # KataforfunUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
