@@ -22,7 +22,7 @@ describe('KataForFunService', ()=> {
         service.convertNumber(33).subscribe(
             (data) => {
                 console.log(data)
-                expect(data).toEqual("FooFooFoo");
+                expect(data).toEqual("KataKataKata");
             }
         )
         
